@@ -36,11 +36,11 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : person# "person" (default), "organization"
   name      : Justin Hanry
-  url       :
+  url       : # 
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
-  email     :
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  bio       : # 
+  email     : http://kim0lil@naver.com
+  facebook  : https://www.facebook.com/100003710943408 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: https://kim0lil0705@gmail.com # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: https://kim0lil.github.io/skfactory.github.io/
+repository: kim0lil
 repository_tree: master
 
 
