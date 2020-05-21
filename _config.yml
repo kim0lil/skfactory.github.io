@@ -121,7 +121,7 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: Magazine-Factory
+    shortname: Magazine Factory
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
@@ -213,6 +213,7 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
+      comments: true
 
 
 ## => Plugins
