@@ -26,7 +26,7 @@ description: 잡지식 기술 블로그
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
+lang: ko # the language of your site, default as "en"
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
@@ -96,7 +96,7 @@ chart: # false (default), true
 ## => Paginate
 ##############################
 paginate: 10
-paginate_path: /page:num # don't change this unless for special need
+paginate_path: /contents:num # don't change this unless for special need
 
 
 ## => Sources
@@ -223,7 +223,6 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - codepen
-  - disqus
 
 
 ## => codepen
