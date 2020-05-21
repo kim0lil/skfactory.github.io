@@ -1,5 +1,6 @@
 {%- if jekyll.environment != 'development' -%}
   {%- if site.comments.provider == 'disqus' -%}
+    test
     {%- include comments-providers/disqus.html -%}
   {%- elsif site.comments.provider == 'gitalk' -%}
     {%- include comments-providers/gitalk.html -%}
@@ -9,4 +10,3 @@
     {%- include comments-providers/custom.html -%}
   {%- endif -%}
 {%- endif -%}
-test
