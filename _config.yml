@@ -121,7 +121,7 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: kim0lil-github-io
+    shortname: kim0lil-github-io-skfactory-github-io
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
@@ -172,7 +172,7 @@ analytics:
 
   ## Google Analytics
   google:
-    tracking_id : 129269037 # Google Analytics id for the site
+    tracking_id : UA-129269037-2 # Google Analytics id for the site
     anonymize_ip: true # Anonymize IP tracking for Analytics
 
 
