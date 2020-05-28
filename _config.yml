@@ -222,13 +222,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-  - codepen
 
 
-codepen:
-  theme-id: dark
-  show-tab-bar: false
-  rerun-position: hidden
-  
 ## => codepen
-codepen_username: kim0lil@naver.com
+codepen:
+  username: kim0lil@naver.com
