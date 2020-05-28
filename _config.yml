@@ -27,7 +27,7 @@ description: 잡지식 기술 블로그
 ## => Language and Timezone
 ##############################
 lang: ko # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: ko # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
