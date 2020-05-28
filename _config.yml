@@ -225,5 +225,10 @@ plugins:
   - codepen
 
 
+codepen:
+  theme-id: dark
+  show-tab-bar: false
+  rerun-position: hidden
+  
 ## => codepen
 codepen_username: kim0lil@naver.com
