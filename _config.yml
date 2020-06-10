@@ -20,8 +20,8 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: tomorrow-night-bright # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : 잡지식 기술 블로그
-description: 잡지식 기술 블로그
+title   : J 기술 블로그
+description: J 기술 블로그
 
 
 ## => Language and Timezone
