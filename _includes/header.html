@@ -1,10 +1,10 @@
 svg/logo.png
 {%- if include.theme == 'dark' -%}
-  <header class="header header--dark" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
+  <header class="header header--dark" {%- if include.background -%} style="background: #077CBC;" {%- endif -%}>
 {%- elsif include.theme == 'light' -%}
-  <header class="header header--light" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
+  <header class="header header--light" {%- if include.background -%} style="background:#077CBC;" {%- endif -%}>
 {%- else -%}
-  <header class="header" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
+  <header class="header" {%- if include.background -%} style="background:#077CBC;" {%- endif -%}>
 {%- endif -%}
     <div class="main">
       <div class="header__title">
