@@ -1,4 +1,3 @@
-svg/logo.png
 {%- if include.theme == 'dark' -%}
   <header class="header header--dark" {%- if include.background -%} style="background: #077CBC;" {%- endif -%}>
 {%- elsif include.theme == 'light' -%}
@@ -8,7 +7,6 @@ svg/logo.png
 {%- endif -%}
     <div class="main">
       <div class="header__title">
-          
         <div class="header__brand">
           {%- include svg/logo.png -%}
           {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
