@@ -1,9 +1,9 @@
 {%- if include.theme == 'dark' -%}
-  <header class="header header--dark"  style="background:#077CBC" {%- if include.background -%} style="background: #077CBC;" {%- endif -%}>
+  <header class="header header--dark"  style="background:#077CBC;box-shadow: 1px 1px 6px rgba(0,0,0,0.3);" {%- if include.background -%} style="background: #077CBC;" {%- endif -%}>
 {%- elsif include.theme == 'light' -%}
-  <header class="header header--light"  style="background:#077CBC" {%- if include.background -%} style="background:#077CBC;" {%- endif -%}>
+  <header class="header header--light"  style="background:#077CBC;box-shadow: 1px 1px 6px rgba(0,0,0,0.3);" {%- if include.background -%} style="background:#077CBC;" {%- endif -%}>
 {%- else -%}
-  <header class="header" style="background:#077CBC" {%- if include.background -%} style="background:#077CBC;" {%- endif -%}>
+  <header class="header" style="background:#077CBC;box-shadow: 1px 1px 6px rgba(0,0,0,0.3);" {%- if include.background -%} style="background:#077CBC;" {%- endif -%}>
 {%- endif -%}
     <div class="main">
       <div class="header__title">
